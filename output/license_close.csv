@@ -1,0 +1,22 @@
+                      OLS Regression Results                      
+Dep. Variable:   ,close_count     ,  R-squared:         ,   0.025 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.025 
+Method:          ,Least Squares   ,  F-statistic:       ,   20.32 
+Date:            ,Mon, 02 May 2022,  Prob (F-statistic):,4.43e-13 
+Time:            ,23:17:03        ,  Log-Likelihood:    , -14811. 
+No. Observations:,  4588          ,  AIC:               ,2.963e+04
+Df Residuals:    ,  4584          ,  BIC:               ,2.966e+04
+Df Model:        ,     3          ,                     ,         
+Covariance Type: ,HC2             ,                     ,         
+          ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+const     ,    3.7721,    0.093,   40.601, 0.000,    3.590,    3.954
+is_cbd    ,    2.4455,    0.497,    4.922, 0.000,    1.472,    3.419
+post_covid,   -0.4986,    0.137,   -3.642, 0.000,   -0.767,   -0.230
+DID       ,    1.8131,    1.050,    1.727, 0.084,   -0.246,    3.872
+Omnibus:      ,5630.233,  Durbin-Watson:     ,   1.387   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1180059.692
+Skew:         , 6.433  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,80.508  ,  Cond. No.          ,    8.10   
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC2)
