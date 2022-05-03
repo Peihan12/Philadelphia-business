@@ -1,9 +1,9 @@
                       OLS Regression Results                      
-Dep. Variable:   ,open_           ,  R-squared:         ,   0.292 
+Dep. Variable:   ,New Open        ,  R-squared:         ,   0.292 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.291 
 Method:          ,Least Squares   ,  F-statistic:       ,   120.7 
-Date:            ,Mon, 02 May 2022,  Prob (F-statistic):,8.16e-75 
-Time:            ,23:13:09        ,  Log-Likelihood:    , -8919.9 
+Date:            ,Tue, 03 May 2022,  Prob (F-statistic):,8.16e-75 
+Time:            ,01:33:20        ,  Log-Likelihood:    , -8919.9 
 No. Observations:,  3970          ,  AIC:               ,1.785e+04
 Df Residuals:    ,  3966          ,  BIC:               ,1.787e+04
 Df Model:        ,     3          ,                     ,         
