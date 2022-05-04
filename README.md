@@ -12,6 +12,8 @@ RQ: What is the movement of businesses before and after covid?
 
 ![yelp](output/yelp.png)
 
+![opening map](output/map_bl_open.png)
+![close-down map](output/map_bl_close.png)
 
 ![Regression results with yelp ](output/license_did.png)
 
