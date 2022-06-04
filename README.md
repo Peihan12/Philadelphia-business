@@ -41,7 +41,7 @@ Leveraging data from the online sharing platform Yelp.com, this paper provides n
 ![regression1](output/reg.png)          
 ![regression2](output/reg2.png)           
 ![regression3](output/reg3.png)          
-        
+![regression4](output/reg4.png)          
 
 
 ## **Conlusion**
