@@ -61,33 +61,28 @@ In conclusion, this paper documents and quantifies the effect of Covid-19 on the
 ## **Reference**
 
 Philadelphia: population data by census tracts. https://www.census.gov/data.html,
-a. Accessed: 2022-06-03.           
-Census Bureau API: access via python. https://towardsdatascience.com/
-accessing-census-data-with-python-3e2f2b56e20d, b. Accessed: 2022-06-03.            
-Philadelphia: city shape file. https://www.opendataphilly.           
-org/dataset/philadelphia-neighborhoods/resource/                
-6c61f240-aafe-478e-b993-b75fd09a93d6, a. Accessed: 2022-06-03.           
-Philadelphia: business license data. https://www.opendataphilly.org/dataset/
-licenses-and-inspections-business-licenses, b. Accessed: 2022-06-03.           
-Yelp: the complete yelp business category list. https://blog.yelp.com/businesses/
-yelp_category_list/, a. Accessed: 2022-06-03.            
-Yelp: business data. https://www.yelp.com/dataset, b. Accessed: 2022-06-03.          
-Lukas Althoff, Fabian Eckert, Sharat Ganapati, and Conor Walsh. The geography of
-remote work. Regional Science and Urban Economics, 93:103770, 2022.             
-James Lopez Bernal, Steven Cummins, and Antonio Gasparrini. Interrupted time series
-regression for the evaluation of public health interventions: a tutorial. International
-journal of epidemiology, 46(1):348–355, 2017.            
-Leland D Crane, Ryan A Decker, Aaron Flaaen, Adrian Hamins-Puertolas, and Christopher Kurz. Business exit during the covid-19 pandemic: Non-traditional measures in
-historical context. Journal of macroeconomics, 72:103419, 2022.                 
-Lei Dong, Carlo Ratti, and Siqi Zheng. Predicting neighborhoods’ socioeconomic attributes using restaurant data. Proceedings of the national academy of sciences, 116
-(31):15447–15452, 2019.               
-Naveen Donthu and Anders Gustafsson. Effects of covid-19 on business and research,
-2020.                    
-Catherine E Fazio, Jorge Guzman, Yupeng Liu, and Scott Stern. How is covid changing
-the geography of entrepreneurship? evidence from the startup cartography project.
-Technical report, National Bureau of Economic Research, 2021.               
+a. Accessed: 2022-06-03.    
+
+Census Bureau API: access via python. https://towardsdatascience.com/accessing-census-data-with-python-3e2f2b56e20d, b. Accessed: 2022-06-03.      
+
+Philadelphia: city shape file. https://www.opendataphilly.org/dataset/philadelphia-neighborhoods/resource/6c61f240-aafe-478e-b993-b75fd09a93d6, a. Accessed: 2022-06-03.     
+
+Philadelphia: business license data. https://www.opendataphilly.org/dataset/licenses-and-inspections-business-licenses, b. Accessed: 2022-06-03.        
+
+Yelp: the complete yelp business category list. https://blog.yelp.com/businesses/yelp_category_list/, a. Accessed: 2022-06-03.            
+Yelp: business data. https://www.yelp.com/dataset, b. Accessed: 2022-06-03.    
+       
+Arjun Ramani and Nicholas Bloom. The donut effect of covid-19 on cities. Technical
+report, National Bureau of Economic Research, 2021.          
+
+Lukas Althoff, Fabian Eckert, Sharat Ganapati, and Conor Walsh. The geography of remote work. Regional Science and Urban Economics, 93:103770, 2022.       
+
+James Lopez Bernal, Steven Cummins, and Antonio Gasparrini. Interrupted time series regression for the evaluation of public health interventions: a tutorial. International journal of epidemiology, 46(1):348–355, 2017.             
+            
+Naveen Donthu and Anders Gustafsson. Effects of covid-19 on business and research, 2020.                    
+
+Catherine E Fazio, Jorge Guzman, Yupeng Liu, and Scott Stern. How is covid changing the geography of entrepreneurship? evidence from the startup cartography project. Technical report, National Bureau of Economic Research, 2021.  
+               
 Richard Florida, Andrés Rodríguez-Pose, and Michael Storper. Cities in a post-covid
-world. Urban Studies, page 00420980211018072, 2021.                   
-Edward L Glaeser, Hyunjin Kim, and Michael Luca. Nowcasting the local economy:
-Using yelp data to measure economic activity. Technical report, National Bureau of
-Economic Research, 2017.              
+world. Urban Studies, page 00420980211018072, 2021.                    
+          
