@@ -39,9 +39,9 @@ Leveraging data from the online sharing platform Yelp.com, this paper provides n
 ![inflows](output/category_inflows_rate.png)            
 ![comparison of rate](output/category_inflows_rate_covid.png)           
 ![inflows as a percent of total](output/box_inflows_rate.png)  
-![regression1](output/reg2.png)          
-![regression2](output/reg3.png)           
-![regression3](output/reg4.png)          
+![regression1](output/reg.png)          
+![regression2](output/reg2.png)           
+![regression3](output/reg3.png)          
         
 
 
