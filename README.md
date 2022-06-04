@@ -15,7 +15,7 @@ Leveraging data from the online sharing platform Yelp.com, this paper provides n
 ## **Data and Code source**  
 - [Yelp](https://www.yelp.com/dataset)        
 - [Census Bureau](https://www.census.gov/data.html)         
-- [Census Bureau API - python usage](https://towardsdatascience.com/    accessing-census-data-with-python-3e2f2b56e20d)            
+- [Census Bureau API - python usage](https://towardsdatascience.com/accessing-census-data-with-python-3e2f2b56e20d)            
 - [Philadelphia City data](https://www.opendataphilly.org/dataset/philadelphia-neighborhoods/resource/6c61f240-aafe-478e-b993-b75fd09a93d6)        
 
              
@@ -44,7 +44,7 @@ Leveraging data from the online sharing platform Yelp.com, this paper provides n
 ![regression3](output/reg4.png)          
         
 
-        
+
 ## **Conlusion**
 
 With the onset of the coronavirus since the start of 2020, social distancing restrictions and demand shifts shuttered many customer services commercials, businesses and entrepreneurs in the first year of widespread shelter-in-place restrictions. The practices of health precautions and airline regulations also directly contained the opening of new businesses and intensified a large number of business closures. 
